@@ -1,0 +1,25 @@
+{
+  "name": "project-video-and-messaging-web-app-msw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cis557/project-video-and-messaging-web-app-msw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cis557/project-video-and-messaging-web-app-msw/issues"
+  },
+  "homepage": "https://github.com/cis557/project-video-and-messaging-web-app-msw#readme",
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
